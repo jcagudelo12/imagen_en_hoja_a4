@@ -122,6 +122,7 @@ function App() {
               className="form-control mb-2"
               placeholder="Ingrese la tarea..."
               name="picture"
+              accept="image/jpeg"
               ref={register}
             />
             <button
